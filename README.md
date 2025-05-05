@@ -9,5 +9,5 @@ Currently, I'm pursuing a degree in Computer Science at the University of the Pe
 
 [![Portfolio](https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio2.svg)](https:/seulink.com)
 [![LinkedIn](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg)](https://www.linkedin.com/in/gabriele-lt-araujo/) 
-[![Gmail](https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail2.svg)](mailto:g.louise.ta@gmail.com) 
+[![Gmail](https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail2.svg)](https://mail.google.com/mail/?view=cm&fs=1&to=g.louise.ta@gmail.com) 
 [![WhatsApp](https://ziadoua.github.io/m3-Markdown-Badges/badges/WhatsApp/whatsapp2.svg)](https://wa.me/+5561996212674)

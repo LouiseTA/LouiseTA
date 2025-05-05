@@ -3,7 +3,8 @@
 **`Master in Biotech`**
 **`Future Developer`**
 
-My name is Gabriele Louise, I'm 25 years old, and I'm changing career paths. I have a Bachelor's degree in Biological Sciences and a Master's degree in Genomic Sciences and Biotechnology. Currently, I'm pursuing a degree in Computer Science at the University of the People and working as an Analyst in the Technology and Innovation team at the Supreme Federal Court of Brazil. 
+My name is Gabriele Louise, I'm 25 years old, and I'm changing career paths. I have a Bachelor's degree in Biological Sciences and a Master's degree in Genomic Sciences and Biotechnology. 
+Currently, I'm pursuing a degree in Computer Science at the University of the People and working as an Analyst in the Technology and Innovation team at the Supreme Federal Court of Brazil. 
 
 
 [![Portfolio](https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio2.svg)](https:/seulink.com)

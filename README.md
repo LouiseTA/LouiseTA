@@ -25,19 +25,20 @@ I combine a scientific background in genomics and biotechnology with growing exp
 ## 💼 Relevant experience
 - **Analyst — Technology & Innovation Team, Supreme Federal Court (STF), Brazil**  
   Working on technology projects, automation, and internal solutions; collaborating with cross-functional teams.
-- **Academic & personal projects**
+- **Personal projects**
   Please, check out my portfolio to see the projects I've developed.
 
 ## 🎓 Education
+- Currently: **BSc in Computer Science** — University of the People
 - **MSc** — Genomic Sciences & Biotechnology  
 - **BSc** — Biological Sciences  
-- Currently: **BSc in Computer Science** — University of the People
+
 
 ## 🛠️ Technical skills
 - Languages: **JavaScript, Python, Java (basic)**  
 - Frontend: **HTML5, CSS3, responsive design, React (familiar)**  
 - Tools: Git, GitHub, Node.js, npm  
-- Data / Science: bioinformatics, genomic pipelines, data analysis  
+- Data / Science: data analysis, bioinformatics, genomic pipelines 
 - Practices: accessibility, performance, responsive UI, basic testing
 
 ## 📫 Contact

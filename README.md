@@ -12,8 +12,8 @@ I'm Gabriele Louise, 25 years old, changing careers from life sciences to softwa
   <a href="https://www.linkedin.com/in/gabriele-lt-araujo/" target="_blank" rel="noopener noreferrer">
     <img alt="LinkedIn" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" />
   </a>
-  <a href="mailto:g.louise.ta@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img alt="Gmail" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail2.svg" />
+  <a href="https://gabriele-louise-portfolio.netlify.app/copy-email.html" target="_blank" rel="noopener noreferrer">
+    <img alt="Gmail (copy email)" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail2.svg" />
   </a>
   <a href="https://wa.me/+5561996212674" target="_blank" rel="noopener noreferrer">
     <img alt="WhatsApp" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/WhatsApp/whatsapp2.svg" />

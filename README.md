@@ -46,6 +46,3 @@ I combine a scientific background in genomics and biotechnology with growing exp
 - LinkedIn: <a href="https://www.linkedin.com/in/gabriele-lt-araujo/" target="_blank" rel="noopener noreferrer">gabriele-lt-araujo</a>  
 - Email: <a href="mailto:g.louise.ta@gmail.com" target="_blank" rel="noopener noreferrer">g.louise.ta@gmail.com</a>  
 - WhatsApp: <a href="https://wa.me/+5561996212674" target="_blank" rel="noopener noreferrer">+55 61 99621-2674</a>
-
-### Note on links
-GitHub renders HTML inside `README.md`, so using `<a target="_blank" rel="noopener noreferrer">` makes those links open in a new tab securely. Good choice for showcasing work in English to hiring managers and collaborators.
